@@ -6,5 +6,5 @@ from . import main
 def index(req):
     if req.POST.get('what'):
         main.openloader(what=req.POST.get('what'))
-    return render(req,'index.html',)
+    return render(req,'index.html',{})
 
