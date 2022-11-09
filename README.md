@@ -37,3 +37,7 @@ And type what u want to create
 
 ![image](https://user-images.githubusercontent.com/89521099/200116695-5215b9d0-9b10-4019-81d2-663e21ceedb7.png)
 
+# Once u have searched
+# Click ctrl + Enter for the images to load for the first time 
+# Cached Files blocks the Loading of the new content files
+# You only need to do this once then u dont need to refresh all the time
