@@ -8,7 +8,7 @@ def openloader(what):
     var = openai.Image.create(
         prompt=what,
         n=3,
-        size='512x512'
+        size='1024x1024'
     )
 
 
